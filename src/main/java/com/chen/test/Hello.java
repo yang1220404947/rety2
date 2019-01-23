@@ -12,4 +12,9 @@ public class Hello {
         System.out.println("罗四傻");
     }
 
+    public void test(){
+        int i = 0;
+        i += 10 ;
+    }
+
 }
